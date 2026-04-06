@@ -1,0 +1,25 @@
+h1,h2{
+    color: #17727e;
+}
+home{
+    background-color: #dbeafe;
+    padding: 60px;
+}
+about{
+    background-color: rgb(25, 79, 103);
+}
+projects{
+    background-color: #3b5579;
+}
+services{
+    background-color: white;
+}
+contact{
+    background-color: #dbeafe;
+}
+footer{
+    background-color: #1e3265;
+    color:rgb(56, 142, 157)
+    text-alighn:center
+    padding: 15px;
+}
